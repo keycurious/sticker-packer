@@ -1,6 +1,6 @@
 # 🏷️ Smart Sticker Packer
 
-AI‑powered die‑cut **sticker layout optimizer** for A4 sheets.  
+Die‑cut **sticker layout optimizer** for A4 sheets.  
 Load PNG stickers, auto‑pack with rotation/flip, preview cutlines, and export a **print‑ready PNG** (transparent or opaque).  
 100% client‑side — no backend, no build step.
 
